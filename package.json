@@ -4,7 +4,7 @@
   "main": "Node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": " nodemon Node.js"
+    "start": "nodemon Node.js"
   },
   "author": "",
   "license": "ISC",

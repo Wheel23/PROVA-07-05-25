@@ -1,6 +1,1 @@
-a80ee2fc-3945-4565-94bc-97d3dad3b233, 07/05/2025, 08:49:40,  Luiz Fernando Ribeiro Santos
-92fea767-4d7e-463c-958a-b9b2ad9f9c0a, 07/05/2025, 08:49:46,  Luiz Fernando Ribeiro Santos
-51bdf8f0-f9df-4dac-8ca9-8ed49f7fb5b5, 07/05/2025, 08:50:17,  gabriel Fernando Ribeiro Santos
-2beb0410-e147-49ae-9292-57ad22920adc, 07/05/2025, 08:50:29,  Pedro Fernando Ribeiro Santos
-e8f90089-44e6-4695-84a7-6509e6059ee8, 07/05/2025, 08:50:34,  Trilha Fernando Ribeiro Santos
-b63199d9-37dc-4e67-a94e-7b22d843023f, 07/05/2025, 08:50:48,  Trilha Fernando Ribeiro Santos
+4d50aec6-ea51-4996-814e-28a2989d0aaf, 07/05/2025, 09:58:12, Luiz
